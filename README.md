@@ -7,6 +7,11 @@ https://github.com/programmermesh/tariffUI
 download project into your desired IDE <br>
 run `npm install` in terminal
 
+run `nest start`
+
+Open browser and lunch to
+http://localhost:3000/api
+
 ## Task
 
 Develop a model to build up the following two products and to compare these products based on
