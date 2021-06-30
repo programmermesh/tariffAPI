@@ -1,10 +1,11 @@
-# Tariff comparison
+# Tariff comparison API
 
-## How to run
+# TariffUI
+https://github.com/programmermesh/tariifUI
 
-You can run the application with the following command
-
-nest start
+# How to run
+download project into your desired IDE <br>
+run `npm install` in terminal
 
 ## Task
 
