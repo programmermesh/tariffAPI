@@ -1,7 +1,7 @@
 # Tariff comparison API
 
 # TariffUI
-https://github.com/programmermesh/tariifUI
+https://github.com/programmermesh/tariffUI
 
 # How to run
 download project into your desired IDE <br>
